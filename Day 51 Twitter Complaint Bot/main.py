@@ -13,8 +13,6 @@ import random
 
 PROMISED_DOWN = 100
 PROMISED_UP = 10
-USER = os.environ['TWITTER_USER']
-PASSWORD = os.environ['TWITTER_PW']
 
 
 class InternetSpeedTwitterBot:
