@@ -39,6 +39,7 @@ all_books = []
 
 @app.route('/')
 def home():
+
     # read all books
     all_books = db.session.query(Books).all()
     return render_template('index.html', books=all_books)
@@ -73,6 +74,13 @@ def edit(id):
     book = Books.query.filter_by(id=id).first()
     return render_template("edit.html", book=book)
 
+
+@app.route('/delete')
+def delete():
+    book_id = request.args.get('id')
+    db.session.delete(Books.query.get(book_id))
+    db.session.commit()
+    return redirect(url_for('home'))
 
 if __name__ == "__main__":
     app.run(debug=True)
