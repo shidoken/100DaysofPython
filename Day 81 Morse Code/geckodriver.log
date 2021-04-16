@@ -1,0 +1,275 @@
+1617311698406	geckodriver	INFO	Listening on 127.0.0.1:33379
+1617311698412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP5nL5i"
+Gtk-Message: 14:14:58.537: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: eglBindAPI returned an error
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+Gtk-Message: 14:14:59.482: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:14:59.892: Failed to load module "appmenu-gtk-module"
+
+(firefox:74779): GLib-GIO-WARNING **: 14:15:00.089: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+Gtk-Message: 14:15:01.158: Failed to load module "appmenu-gtk-module"
+1617311701172	Marionette	INFO	Listening on port 41913
+1617311701245	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617311701467	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+Gtk-Message: 14:19:07.371: Failed to load module "appmenu-gtk-module"
+1617311949409	Marionette	INFO	Stopped listening on port 41913
+1617311962211	geckodriver	INFO	Listening on 127.0.0.1:53347
+1617311962216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNg4iSv"
+Gtk-Message: 14:19:22.360: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: eglBindAPI returned an error
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+Gtk-Message: 14:19:23.417: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 14:19:23.870: Failed to load module "appmenu-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+
+(firefox:76793): GLib-GIO-WARNING **: 14:19:24.181: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+Gtk-Message: 14:19:25.225: Failed to load module "appmenu-gtk-module"
+1617311965244	Marionette	INFO	Listening on port 45645
+1617311965356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617311965570	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2307))
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2307))
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+console.error: "Failed to start [server-sent-event] legacy listener for target server0.conn0.workerGlobal4294967299/workerTarget1/workerTarget1" (new Error("Can't find the actor ID for eventSource from root or target actor's form.", "resource://devtools/shared/protocol/types.js", 543))
+console.error: "Failed to start [server-sent-event] legacy listener for target server0.conn0.workerGlobal4294967299/workerTarget2/workerTarget1" (new Error("Can't find the actor ID for eventSource from root or target actor's form.", "resource://devtools/shared/protocol/types.js", 543))
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+Gtk-Message: 15:04:57.973: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.riteaid.com/etc.clientlibs/riteaid-web/clientlibs/clientlib-base.min.859b911dd28246b0c9ac69a3e59b7249.js, line 2465: TypeError: c is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+console.warn: "Error while destroying front:" "eventSource" (new Error("Can't find the actor ID for eventSource from root or target actor's form.", "resource://devtools/shared/protocol/types.js", 543))
+console.warn: "Error while destroying front:" "eventSource" (new Error("Can't find the actor ID for eventSource from root or target actor's form.", "resource://devtools/shared/protocol/types.js", 543))
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.error: "Failed to start [server-sent-event] legacy listener for target server0.conn1.workerGlobal6442450959/workerTarget1/workerTarget1" (new Error("Can't find the actor ID for eventSource from root or target actor's form.", "resource://devtools/shared/protocol/types.js", 543))
+console.error: "Failed to start [server-sent-event] legacy listener for target server0.conn1.workerGlobal6442450958/workerTarget1/workerTarget1" (new Error("Can't find the actor ID for eventSource from root or target actor's form.", "resource://devtools/shared/protocol/types.js", 543))
+JavaScript error: resource:///actors/ContextMenuParent.jsm, line 20: TypeError: topBrowser is null
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1617316342285	geckodriver	INFO	Listening on 127.0.0.1:44033
+1617316342290	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler1o8Vb"
+Gtk-Message: 15:32:22.491: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: eglBindAPI returned an error
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+Gtk-Message: 15:32:23.591: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:32:24.066: Failed to load module "appmenu-gtk-module"
+
+(firefox:104881): GLib-GIO-WARNING **: 15:32:24.293: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617316345371	Marionette	INFO	Listening on port 35571
+Gtk-Message: 15:32:25.382: Failed to load module "appmenu-gtk-module"
+1617316345428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617316345641	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL context was lost.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+Gtk-Message: 15:34:10.764: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.riteaid.com/etc.clientlibs/riteaid-web/clientlibs/clientlib-base.min.859b911dd28246b0c9ac69a3e59b7249.js, line 2465: TypeError: c is null
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.riteaid.com"
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Gtk-Message: 15:40:29.167: Failed to load module "appmenu-gtk-module"
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:959:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:710:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+Handler function _httpResponseExaminer threw an exception: TypeError: topFrame.browsingContext is null
+Stack: matchRequest@resource://devtools/server/actors/network-monitor/network-observer.js:130:9
+_httpResponseExaminer@resource://devtools/server/actors/network-monitor/network-observer.js:456:10
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 130, column: 9
+console.error: (new TypeError("topFrame.browsingContext is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 130))
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+Gtk-Message: 15:45:43.372: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 15:45:44.172: Failed to load module "appmenu-gtk-module"
+1617317146134	Marionette	INFO	Stopped listening on port 35571
+1617337401360	geckodriver	INFO	Listening on 127.0.0.1:40359
+1617337402366	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC0aCpR"
+Gtk-Message: 21:23:22.521: Failed to load module "appmenu-gtk-module"
+[GFX1-]: glxtest: eglBindAPI returned an error
+[GFX1-]: glxtest: libEGL missing eglGetDisplayDriverName
+Gtk-Message: 21:23:23.605: Failed to load module "appmenu-gtk-module"
+Gtk-Message: 21:23:24.046: Failed to load module "appmenu-gtk-module"
+
+(firefox:200857): GLib-GIO-WARNING **: 21:23:24.263: /etc/xdg/kde-mimeapps.list contains a [Added Associations] group, but it is not permitted here.  Only the non-desktop-specific mimeapps.list file may add or remove associations.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1617337405273	Marionette	INFO	Listening on port 43079
+Gtk-Message: 21:23:25.284: Failed to load module "appmenu-gtk-module"
+1617337405317	Marionette	WARN	TLS certificate errors will be ignored for this session
+1617337405592	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+JavaScript warning: https://vaccinefinder.org/_next/static/chunks/2c796e83.f22da076e04da11346fe.js, line 1: WebGL warning: texImage: Alpha-premult and y-flip are deprecated for non-DOM-Element uploads.
+Gtk-Message: 21:23:33.952: Failed to load module "appmenu-gtk-module"
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.riteaid.com/etc.clientlibs/riteaid-web/clientlibs/clientlib-base.min.859b911dd28246b0c9ac69a3e59b7249.js, line 2465: TypeError: c is null
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 567"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:567:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:128:18
+Line: 567, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 567: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Gtk-Message: 21:44:03.845: Failed to load module "appmenu-gtk-module"
+JavaScript warning: https://adpushup.bbvms.com/launchpad/?1617340543028, line 1: unreachable code after return statement
+JavaScript warning: https://adpushup.bbvms.com/launchpad/?1617340543028 line 291 > eval, line 1: unreachable code after return statement
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1617340770500	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1617340780569	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+Gtk-Message: 22:20:45.538: Failed to load module "appmenu-gtk-module"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+getMutations@resource://devtools/client/fronts/walker.js:358:10
+
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+console.error: "Panel inspector:" (new TypeError("event is undefined", "resource://devtools/client/shared/telemetry.js", 700))
+Gtk-Message: 22:24:42.268: Failed to load module "appmenu-gtk-module"
+1617341083357	Marionette	INFO	Stopped listening on port 43079
